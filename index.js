@@ -1,2 +1,2 @@
 // Code your solution in this file!
-companyName = "Scruber"
+companyName = "Scuber"
